@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "85CBF071-7B4E-4CAB-B48B-0AAB7F7CF467"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60A5CC14-3926-4AE1-96A1-6462A43BD5D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rock Paper Scissor/Model/RockPaperScissorGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "RockPaperScissorGame"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "60A5CC14-3926-4AE1-96A1-6462A43BD5D5 - 522e1481738c05dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissor.RockPaperScissorGame.deinit"
+                  moduleName = "Rock Paper Scissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ncrumbo/Documents/Rock%20Paper%20Scissor/Rock%20Paper%20Scissor/Model/RockPaperScissorGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "60A5CC14-3926-4AE1-96A1-6462A43BD5D5 - fe740e35dcafeee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissor.RockPaperScissorGame.__deallocating_deinit"
+                  moduleName = "Rock Paper Scissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ncrumbo/Documents/Rock%20Paper%20Scissor/Rock%20Paper%20Scissor/Model/RockPaperScissorGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "60A5CC14-3926-4AE1-96A1-6462A43BD5D5 - f1c7c2b9afcb8e9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissor.RockPaperScissorGame.__allocating_init() -&gt; Rock_Paper_Scissor.RockPaperScissorGame"
+                  moduleName = "Rock Paper Scissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ncrumbo/Documents/Rock%20Paper%20Scissor/Rock%20Paper%20Scissor/Model/RockPaperScissorGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "60A5CC14-3926-4AE1-96A1-6462A43BD5D5 - f10a107bb6b8d62f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissor.RockPaperScissorGame.init() -&gt; Rock_Paper_Scissor.RockPaperScissorGame"
+                  moduleName = "Rock Paper Scissor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ncrumbo/Documents/Rock%20Paper%20Scissor/Rock%20Paper%20Scissor/Model/RockPaperScissorGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
